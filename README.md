@@ -24,7 +24,7 @@ The Q-Rapids Dashboard user's guideline is available at [Q-Rapids Strategic Dash
 Q-Rapids Dashboard demo docker uses the following ports:
 * Dashboard (WEB_PORT): 8888
 * Postgreql (DB_PORT: 5433
-* R Serve (RB_PORT): 6311
+* R Server (RB_PORT): 6311
 * Elastic (EL_PORT_REST): 9200
 * Elastic (EL_PORT_NODE): 9300
 * Kibana (KIBANA_PORT): 5601
