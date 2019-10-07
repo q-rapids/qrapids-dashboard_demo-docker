@@ -3,6 +3,7 @@
 Standalone version of the Q-Rapids Dashboard's demo docker.
 
 ## Pre-requisites
+
 In order to run the dashboard demo docker, you need to have install Docker Engine and Docker-compose (https://docs.docker.com/)
 
 ## How to deploy dashboard demo docker
@@ -18,7 +19,8 @@ Access to the dashoard in your browser at: http://localhost:8888
 
 The Q-Rapids Dashboard user's guideline is available at [Q-Rapids Strategic Dashboard User Guide](https://github.com/q-rapids/qrapids-dashboard/wiki/User-Guide).
 
-## Components' Ports
+## Dashboard Components' Ports
+
 Q-Rapids Dashboard demo docker uses the following ports:
 * Dashboard (WEB_PORT): 8888
 * Postgreql (DB_PORT: 5433
