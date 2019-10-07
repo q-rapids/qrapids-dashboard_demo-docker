@@ -13,5 +13,5 @@ It's as simple as...
 * **Step 2**. Open a command prompt on the unzipped root directory
 * **Step 3**. Type "docker-compose up"
 
-## How to use the dashboard
+## How to use Q-Rapids Dashboard
 The Q-Rapids Dashboard user's guideline is available at [Q-Rapids Strategic Dashboard User Guide](https://github.com/q-rapids/qrapids-dashboard/wiki/User-Guide)
