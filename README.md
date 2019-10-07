@@ -12,6 +12,12 @@ It's as simple as...
 * **Step 2**. Open a command prompt on the unzipped root directory
 * **Step 3**. Type "docker-compose up". This command can take some minutes the first time is executed.
 
+## How to use Q-Rapids Dashboard
+
+Access to the dashoard in your browser at: http://localhost:8888
+
+The Q-Rapids Dashboard user's guideline is available at [Q-Rapids Strategic Dashboard User Guide](https://github.com/q-rapids/qrapids-dashboard/wiki/User-Guide).
+
 ## Components' Ports
 Q-Rapids Dashboard demo docker uses the following ports:
 * Dashboard (WEB_PORT): 8888
@@ -22,7 +28,5 @@ Q-Rapids Dashboard demo docker uses the following ports:
 * Kibana (KIBANA_PORT): 5601
 * Kafka (KAFKA_PORT): 9092
 
-You can configure them in the .env file in the unzipped root directory.
+You can configure them in the .env file in the unzipped root directory before runing the docker-compose statement.
 
-## How to use Q-Rapids Dashboard
-The Q-Rapids Dashboard user's guideline is available at [Q-Rapids Strategic Dashboard User Guide](https://github.com/q-rapids/qrapids-dashboard/wiki/User-Guide)
