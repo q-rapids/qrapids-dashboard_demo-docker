@@ -25,8 +25,8 @@ Q-Rapids Dashboard demo docker uses the following ports:
 * Dashboard (WEB_PORT): 8888
 * Postgreql (DB_PORT: 5433
 * R Server (RB_PORT): 6311
-* Elastic (EL_PORT_REST): 9200
-* Elastic (EL_PORT_NODE): 9300
+* Elastic RESTful service (EL_PORT_REST): 9200
+* Elastic Node (EL_PORT_NODE): 9300
 * Kibana (KIBANA_PORT): 5601
 * Kafka (KAFKA_PORT): 9092
 
