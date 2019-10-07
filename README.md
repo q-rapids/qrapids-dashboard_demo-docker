@@ -22,7 +22,7 @@ Q-Rapids Dashboard demo docker uses the following ports:
 * Kibana (KIBANA_PORT): 5601
 * Kafka (KAFKA_PORT): 9092
 
-You can configure them in the .env file in the unzipped root directory
+You can configure them in the .env file in the unzipped root directory.
 
 ## How to use Q-Rapids Dashboard
 The Q-Rapids Dashboard user's guideline is available at [Q-Rapids Strategic Dashboard User Guide](https://github.com/q-rapids/qrapids-dashboard/wiki/User-Guide)
