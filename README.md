@@ -4,7 +4,7 @@ Standalone version of the Q-Rapids Dashboard's demo docker.
 
 ## Pre-requisites
 
-In order to run the dashboard demo docker, you need to have install Docker Engine and Docker-compose (https://docs.docker.com/).
+In order to run the dashboard demo docker, you need to have install Docker Desktop and Docker-compose (https://docs.docker.com/).
 
 ## How to deploy dashboard demo docker
 
