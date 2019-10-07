@@ -3,6 +3,8 @@
 Standalone version of the Q-Rapids Dashboard's demo docker.
 
 ## Pre-requisites
+* Docker...
+* 
 
 ## How to deploy dashboard demo docker
 
