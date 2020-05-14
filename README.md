@@ -9,7 +9,7 @@ In order to run the dashboard demo docker, you need to have install Docker Deskt
 ## How to deploy dashboard demo docker
 
 It's as simple as...
-* **Step 1**. Unzip the zip file in the [release page](https://github.com/q-rapids/qrapids-dashboarddemo-docker/releases/tag/v1-standalone)
+* **Step 1**. Unzip the zip file in the [release page](https://github.com/q-rapids/qrapids-dashboarddemo-docker/releases
 * **Step 2**. Open a command prompt on the unzipped root directory
 * **Step 3**. Type "docker-compose up". This command can take some minutes the first time is executed.
 
